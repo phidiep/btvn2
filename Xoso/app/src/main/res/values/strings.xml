@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Xoso</string>
+    <string-array name="tinh">
+        <item>AG</item>
+        <item>BD</item>
+        <item>BL</item>
+        <item>BP</item>
+        <item>BTH</item>
+        <item>CM</item>
+        <item>CT</item>
+        <item>HCM</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
